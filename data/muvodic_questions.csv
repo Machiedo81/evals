@@ -1,4 +1,4 @@
-id,questions,response,label,category
+id,question,response,label,category
 1,What is a network protocol,A set of rules that defines how data is transmitted and received across a network.,pass,networks
 2,Why are protocols important in computer networks?,They ensure devices can communicate reliably and consistently.,pass,networks
 3,What is the OSI model?,A 7-layer framework that standardizes network communication.,pass,networks
